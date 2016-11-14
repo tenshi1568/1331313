@@ -1,0 +1,13 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Comment,Task,Task Status,Task,Task Status
+3142103,Order Food List,order food link,,,,epic,,,"Nov 13, 2016",,,,Order Food ,https://www.pivotaltracker.com/epic/show/3142103,,,,,,
+133821975,Add Patient Record,patient,1,"Nov 7, 2016","Nov 20, 2016",feature,2,accepted,"Nov 6, 2016","Nov 6, 2016",,CHIU LONG LIM,any patient with ic number ,https://www.pivotaltracker.com/story/show/133821975,CHIU LONG LIM,"restart pls 
+ (CHIU LONG LIM - Nov 6, 2016)",check for valid ic number,completed,display error message if ic number cannot add,completed
+133822077,update patient record,patient,1,"Nov 7, 2016","Nov 20, 2016",feature,3,unstarted,"Nov 6, 2016",,,CHIU LONG LIM,"update
+",https://www.pivotaltracker.com/story/show/133822077,,,check update info,not completed
+134242957,Add Order Food ,order food link,1,"Nov 7, 2016","Nov 20, 2016",feature,1,unstarted,"Nov 13, 2016",,,CHIU LONG LIM,To Order Food ,https://www.pivotaltracker.com/story/show/134242957,,,Add ordered food to the order list ,not completed
+134243027,Delete Ordered Food from Order List,order food link,1,"Nov 7, 2016","Nov 20, 2016",feature,1,unstarted,"Nov 13, 2016",,,CHIU LONG LIM,"Delete Food
+",https://www.pivotaltracker.com/story/show/134243027,,,Delete the ordered food from the order list ,not completed,Confirm delete order food,not completed
+134243035,Make Payment,order food link,1,"Nov 7, 2016","Nov 20, 2016",feature,1,unstarted,"Nov 13, 2016",,,CHIU LONG LIM,"Make payment
+",https://www.pivotaltracker.com/story/show/134243035,,,Send the order food list to make the payment,not completed,Select Payment Type,not completed
+134243069,Check Order List,order food link,1,"Nov 7, 2016","Nov 20, 2016",feature,1,unstarted,"Nov 13, 2016",,,CHIU LONG LIM,"Check Order List
+",https://www.pivotaltracker.com/story/show/134243069,,,Check order list after order item,not completed
